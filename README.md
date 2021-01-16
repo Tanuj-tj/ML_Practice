@@ -28,4 +28,4 @@ Link : https://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritte
 ### fashion_mnist :
 Link : https://www.tensorflow.org/datasets/catalog/fashion_mnist , https://github.com/zalandoresearch/fashion-mnist
 
-
+![Examples-from-the-Fashion-MNIST-dataset (1)](https://user-images.githubusercontent.com/63875409/104810598-b50fb980-581b-11eb-92be-4d1c53774163.png)
