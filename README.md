@@ -14,3 +14,9 @@ Link : https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
 ![Capture](https://user-images.githubusercontent.com/63875409/104810358-fef7a000-5819-11eb-9589-0e9e34f84c2e.PNG)
 
 ![Capture1](https://user-images.githubusercontent.com/63875409/104810361-028b2700-581a-11eb-868e-8f6f7a98529d.PNG)
+
+## Clustering ->
+
+### Optical Recognition of Handwritten Digits Data Set :
+Link : https://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits
+
